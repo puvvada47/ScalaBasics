@@ -1,6 +1,6 @@
 package com.viswanath.scala.example
 
-object Exam {
+object Function {
   def main(args: Array[String]): Unit = {
 
     val a = 1
